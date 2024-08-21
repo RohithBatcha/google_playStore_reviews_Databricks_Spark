@@ -1,8 +1,8 @@
-#Google playsore data\
-#AGENDA:\
+# Google playsore data\
+# AGENDA:\
 we have google playstore dataset containing information of different apps installed rating and versions and other details and we are going to do analysis based on the data we have
 
-Find the Average Rating for Each Category\
+1. Find the Average Rating for Each Category\
 Find out TOP 10 reviews given to the apps\
 Top 10 installs apps and distribution of type (free/paid)\
 Top 7 paid apps\
